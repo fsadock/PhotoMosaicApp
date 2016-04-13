@@ -1,9 +1,9 @@
 package app;
 
-import fotomosaico.AcabouLadrilhoException;
+import fotomosaico.NoTilesException;
 import java.io.IOException;
 import java.io.FileNotFoundException;
-import static fotomosaico.ManipulaImagens.*;
+import static fotomosaico.HandlesImages.*;
 
 public class FotoMosaicoApp {
 
