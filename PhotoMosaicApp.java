@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.FileNotFoundException;
 import static fotomosaico.HandlesImages.*;
 
-public class FotoMosaicoApp {
+public class PhotoMosaicApp {
 
     public static void main(String[] args) throws IOException {
 
