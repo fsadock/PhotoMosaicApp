@@ -1,6 +1,6 @@
 # PhotoMosaicApp
 
-This is a java application that transforms an image in a puzzle created with many other small images(tiles).
+This is a java application that transforms a black and white image in a puzzle created with many other small black and white images(tiles).
 The application expects four arguments in the following order:
 
 Example: 
