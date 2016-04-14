@@ -14,6 +14,4 @@ Example:
 
 4- The path of the final image.
 
-(Each tile can only be used 10 times, so if you use a small epslon value your image might have black parts)
-
 It's a basic program, still has a lot of work to do, so it is not very efficient.
