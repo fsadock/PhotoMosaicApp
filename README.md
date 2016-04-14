@@ -3,7 +3,8 @@
 This is a java application that transforms an image in a puzzle created with many other small images(tiles).
 The application expects four arguments in the following order:
 
-createImage(imagePath, TilesFolder, epslon, destinationPath)
+Example: 
+          java -jar "imagePath" "TilesFolder" epslon "destinationPath"
 
 1- The path to the base image that is going to be converted;
 
