@@ -89,11 +89,11 @@ public class ManipulaImagens {
                             novaImg.setRGB(x * widthLad, j * heightLad, widthLad, heightLad,
                                     array0, 0, widthLad);
 
-                            if (utilizado == 9) {    //CONTROLA 
-                                utilizado = 0;      //A
-                                break outerloop;   //REPETIÇÃO
-                            }
-                            utilizado++;
+                            //if (utilizado == 9) {    //CONTROLA 
+                            //    utilizado = 0;      //A
+                            //    break outerloop;   //REPETIÇÃO
+                            //}
+                            //utilizado++;
                         }
                     }
                 }
